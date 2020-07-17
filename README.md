@@ -1,2 +1,2 @@
 # Data-Science
-All data science related persnal projects
+All data science related personal projects
