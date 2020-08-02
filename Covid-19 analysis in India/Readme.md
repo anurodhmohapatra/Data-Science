@@ -5,3 +5,5 @@ I asked few people if they have chance to know something about covid-19 what wil
 I have provided two plots. 1st one is interactive one where we can see no of active cases, recoveries and death state wise.
 
 Another one is simple but information rich trend. Which tells a story that covid-19 cases in India was stable till May-2020 due to lockdown but after that it increased exponentially, but nothing to worry as we can see recoveries are also good and there are only few death as compared to active cases.
+
+![GitHub Logo](https://github.com/anurodhmohapatra/Data-Science-Personal_Projects/blob/master/Covid-19%20analysis%20in%20India/Covid-19%20analysis%20in%20India.jpg)
